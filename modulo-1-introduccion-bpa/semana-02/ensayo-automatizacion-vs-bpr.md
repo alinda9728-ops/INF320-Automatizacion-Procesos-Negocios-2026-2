@@ -44,3 +44,15 @@ les permite ahora crear nuevas estrategias de mercadeo y hacer cualquier cambio 
 Panafoto hizo reingeniería de procesos de negocio(BPR) es una metodología radical de rediseño de procesos que va mucho más allá de la mejora incremental de los procesos de negocio. Reimagina los flujos de trabajo centrales de su negocio de principio a fin, aprovechando la automatización impulsada por IA, la RPA, la computación en la nube y el análisis avanzado, para lograr mejoras sustanciales en el tiempo de ciclo, la reducción de costos y la eficiencia general del proceso.
 Panafoto no se limitó a ponerle tecnología a sus procesos viejos para que fueran más rápidos (automatización incremental), sino que rediseñó desde la raíz su modelo de negocio y sus flujos de trabajo para pasar de un modelo puramente tradicional a uno omnicanal.
 Aunque el proceso fue por fases porque primero fue la plataforma web, luego la integración de última milla, luego los chats estructurados por un tema de gestión de riesgos y presupuesto.
+
+---
+
+**Fuentes consultadas**
+
+|Nombre|link|
+|------|-----|
+| Gemini|
+|La prensa |https://www.prensa.com/economia/el-ceo-de-panafoto-el-inventario-es-plata-tener-demasiado-es-capital-congelado/|
+|Omni pro|https://business.omni.pro/panafoto|
+
+
