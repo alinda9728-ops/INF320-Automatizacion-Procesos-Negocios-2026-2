@@ -15,3 +15,13 @@
 
 * **Nombre del Proceso:** Gestión Manual de Devoluciones y Reembolsos de Pedidos (Proceso AS-IS).
 * **Justificación:** Actualmente, cuando un cliente solicita una devolución o reclamo por un cupón/producto, la verificación del estado de la compra se realiza manualmente entre el equipo de soporte, el comercio aliado y la pasarela de pago. Esto genera cuellos de botella, falta de trazabilidad en las solicitudes y demoras significativas en la emisión de reembolsos al usuario final.
+
+---
+
+**Fuentes consultadas**
+
+|Nombre|link|
+|------|-----|
+| Gemini|
+|Pagina web de pricesmart |https://www.pricesmart.com/es-PA/politicas-locales|
+|google academico|https://vtechworks.lib.vt.edu/items/e1c96b8e-099c-44f9-b48b-09741591c99f|
