@@ -28,8 +28,8 @@
 | 7 | Soporte Click & Go | Envía el comprobante final y notifica al cliente que su devolución se ha completado. | 5 minutos |
 
 ### Archivo del diagrama
-* **Imagen PNG:** `../../diagramas/bpmn-as-is-v1.png` 
-* **Archivo fuente:** `.bpmn` adjunto en la carpeta del repositorio.
+* **Imagen PNG:** `proyecto-integrador/kickoff/diagrama-as-is-practica.png`    
+
 
 ### Indicadores operativos actuales (medidos o estimados)
 
