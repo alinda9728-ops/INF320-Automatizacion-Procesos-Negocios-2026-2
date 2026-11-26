@@ -12,7 +12,7 @@
 
 **Disparador (Trigger):**
 - **Aplicación:** Gmail
-- **Evento:** "Nuevo email recibido" con asunto que contiene `"Solicitud de Devolución"` o `"Nuevo pedido"`
+- **Evento:** "Nuevo email recibido" con asunto que contiene `"Solicitud de Devolución"
 
 **Pasos del flujo:**
 1. **ACCIÓN: Google Sheets → Agregar fila**
@@ -30,8 +30,6 @@
 ---
 
 ## Capturas de Pantalla del Flujo
-
-*(Asegúrate de adjuntar la imagen de tu flujo en Zapier/Make aquí)*
 
 `![Flujo Zapier Configurado](./flujo-zapier-configurado.png)`
 
